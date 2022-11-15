@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
 <h3 align="center">A passionate Freelancer developer from Chile</h3>
 
-<h3 align="center"><img src="https://gfycat.com/adeptcostlykookaburra"></h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/DYG33RE4v6JMNDZYJj/giphy.gif?cid=ecf05e47kxlbg6aneqcaijvgnblrogzd0bkqlzjjshwva8qs&rid=giphy.gif&ct=g"></h3>
 
 - 🔭 I’m currently working on [Módulo de Nutrición](https://github.com/Seba3du/proyectnutricion.git)
 
