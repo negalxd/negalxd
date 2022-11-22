@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ignaciofaundes.26@gmail.com**
 
-- ⚡ Fun fact **My cat's name is C4T**
+- ⚡ Fun fact **My cat's name is G4TO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
