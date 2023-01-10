@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Módulo de Nutrición](https://github.com/Seba3du/proyectnutricion.git)
 
-- 🌱 I’m currently learning **Frameworks, JS & API REST**
+- 🌱 I’m currently learning **Frameworks, JS & APIs**
 
 - 📫 How to reach me **ignaciofaundes.26@gmail.com**
 
