@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio</h1>
 <h3 align="center">A passionate Freelancer developer from Chile</h3>
 
-- 🔭 I’m currently working on [Módulo de Nutrición](https://github.com/Seba3du/proyectnutricion.git)
+- 🔭 I’m currently working on **Extension for Aniyomi**
 
 - 🌱 I’m currently learning **Frameworks, JS & APIs**
 
